@@ -1,0 +1,16 @@
+c:\Users\DELL\git\Inyeccion101\Inyeccion101\bin\Debug\net5.0\Inyeccion101.exe
+c:\Users\DELL\git\Inyeccion101\Inyeccion101\bin\Debug\net5.0\Inyeccion101.deps.json
+c:\Users\DELL\git\Inyeccion101\Inyeccion101\bin\Debug\net5.0\Inyeccion101.runtimeconfig.json
+c:\Users\DELL\git\Inyeccion101\Inyeccion101\bin\Debug\net5.0\Inyeccion101.runtimeconfig.dev.json
+c:\Users\DELL\git\Inyeccion101\Inyeccion101\bin\Debug\net5.0\Inyeccion101.dll
+c:\Users\DELL\git\Inyeccion101\Inyeccion101\bin\Debug\net5.0\ref\Inyeccion101.dll
+c:\Users\DELL\git\Inyeccion101\Inyeccion101\bin\Debug\net5.0\Inyeccion101.pdb
+c:\Users\DELL\git\Inyeccion101\Inyeccion101\obj\Debug\net5.0\Inyeccion101.csproj.AssemblyReference.cache
+c:\Users\DELL\git\Inyeccion101\Inyeccion101\obj\Debug\net5.0\Inyeccion101.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\DELL\git\Inyeccion101\Inyeccion101\obj\Debug\net5.0\Inyeccion101.AssemblyInfoInputs.cache
+c:\Users\DELL\git\Inyeccion101\Inyeccion101\obj\Debug\net5.0\Inyeccion101.AssemblyInfo.cs
+c:\Users\DELL\git\Inyeccion101\Inyeccion101\obj\Debug\net5.0\Inyeccion101.csproj.CoreCompileInputs.cache
+c:\Users\DELL\git\Inyeccion101\Inyeccion101\obj\Debug\net5.0\Inyeccion101.dll
+c:\Users\DELL\git\Inyeccion101\Inyeccion101\obj\Debug\net5.0\ref\Inyeccion101.dll
+c:\Users\DELL\git\Inyeccion101\Inyeccion101\obj\Debug\net5.0\Inyeccion101.pdb
+c:\Users\DELL\git\Inyeccion101\Inyeccion101\obj\Debug\net5.0\Inyeccion101.genruntimeconfig.cache

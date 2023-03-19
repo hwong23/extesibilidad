@@ -1,0 +1,4 @@
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFFlujoAccionesConsola\MEFFlujoAccionesConsola\extensiones\Flujo.FlujoPrueba.dll
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFFlujoAccionesConsola\MEFFlujoAccionesConsola\extensiones\Flujo.FlujoPrueba.pdb
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFFlujoAccionesConsola\Flujo.FlujoPrueba\obj\Debug\Flujo.FlujoPrueba.dll
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFFlujoAccionesConsola\Flujo.FlujoPrueba\obj\Debug\Flujo.FlujoPrueba.pdb

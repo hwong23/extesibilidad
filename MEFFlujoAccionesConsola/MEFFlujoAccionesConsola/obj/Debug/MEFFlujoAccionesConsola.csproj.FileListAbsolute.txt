@@ -1,0 +1,13 @@
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFFlujoAccionesConsola\MEFFlujoAccionesConsola\bin\Debug\MEFFlujoAccionesConsola.exe.config
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFFlujoAccionesConsola\MEFFlujoAccionesConsola\bin\Debug\MEFFlujoAccionesConsola.exe
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFFlujoAccionesConsola\MEFFlujoAccionesConsola\bin\Debug\MEFFlujoAccionesConsola.pdb
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFFlujoAccionesConsola\MEFFlujoAccionesConsola\bin\Debug\Flujo.Contratos.dll
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFFlujoAccionesConsola\MEFFlujoAccionesConsola\bin\Debug\Flujo.Contratos.pdb
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFFlujoAccionesConsola\MEFFlujoAccionesConsola\obj\Debug\MEFFlujoAccionesConsola.csprojResolveAssemblyReference.cache
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFFlujoAccionesConsola\MEFFlujoAccionesConsola\obj\Debug\MEFFlujoAccionesConsola.exe
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFFlujoAccionesConsola\MEFFlujoAccionesConsola\obj\Debug\MEFFlujoAccionesConsola.pdb
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFFlujoAccionesConsola\MEFFlujoAccionesConsola\extensiones\MEFFlujoAccionesConsola.exe.config
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFFlujoAccionesConsola\MEFFlujoAccionesConsola\extensiones\MEFFlujoAccionesConsola.exe
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFFlujoAccionesConsola\MEFFlujoAccionesConsola\extensiones\MEFFlujoAccionesConsola.pdb
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFFlujoAccionesConsola\MEFFlujoAccionesConsola\extensiones\Flujo.Contratos.dll
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFFlujoAccionesConsola\MEFFlujoAccionesConsola\extensiones\Flujo.Contratos.pdb

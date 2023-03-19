@@ -1,0 +1,5 @@
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFFlujoAccionesConsola\Flujo.Contratos\bin\Debug\Flujo.Contratos.dll
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFFlujoAccionesConsola\Flujo.Contratos\bin\Debug\Flujo.Contratos.pdb
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFFlujoAccionesConsola\Flujo.Contratos\obj\Debug\Flujo.Contratos.csprojResolveAssemblyReference.cache
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFFlujoAccionesConsola\Flujo.Contratos\obj\Debug\Flujo.Contratos.dll
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFFlujoAccionesConsola\Flujo.Contratos\obj\Debug\Flujo.Contratos.pdb

@@ -1,0 +1,7 @@
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFConsoleCalculadora\OperacionesAdicionales\obj\Debug\OperacionesAdicionales.csprojResolveAssemblyReference.cache
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFConsoleCalculadora\OperacionesAdicionales\obj\Debug\OperacionesAdicionales.dll
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFConsoleCalculadora\OperacionesAdicionales\obj\Debug\OperacionesAdicionales.pdb
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFConsoleCalculadora\OperacionesAdicionales.dll
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFConsoleCalculadora\OperacionesAdicionales.pdb
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFConsoleCalculadora\MEFConsoleCalculadora\extensiones\OperacionesAdicionales.dll
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFConsoleCalculadora\MEFConsoleCalculadora\extensiones\OperacionesAdicionales.pdb

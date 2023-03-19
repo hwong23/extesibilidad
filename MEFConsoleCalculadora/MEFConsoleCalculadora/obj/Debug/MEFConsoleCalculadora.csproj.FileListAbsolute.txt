@@ -1,0 +1,12 @@
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFConsoleCalculadora\MEFConsoleCalculadora\bin\Debug\MEFConsoleCalculadora.exe.config
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFConsoleCalculadora\MEFConsoleCalculadora\bin\Debug\MEFConsoleCalculadora.exe
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFConsoleCalculadora\MEFConsoleCalculadora\bin\Debug\MEFConsoleCalculadora.pdb
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFConsoleCalculadora\MEFConsoleCalculadora\obj\Debug\MEFConsoleCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFConsoleCalculadora\MEFConsoleCalculadora\obj\Debug\MEFConsoleCalculadora.exe
+C:\Users\HWO\Documents\Visual Studio 2013\Projects\MEFConsoleCalculadora\MEFConsoleCalculadora\obj\Debug\MEFConsoleCalculadora.pdb
+C:\git\ExtensionApp\MEFConsoleCalculadora\MEFConsoleCalculadora\bin\Debug\MEFConsoleCalculadora.exe.config
+C:\git\ExtensionApp\MEFConsoleCalculadora\MEFConsoleCalculadora\obj\Debug\MEFConsoleCalculadora.exe
+C:\git\ExtensionApp\MEFConsoleCalculadora\MEFConsoleCalculadora\obj\Debug\MEFConsoleCalculadora.pdb
+C:\git\ExtensionApp\MEFConsoleCalculadora\MEFConsoleCalculadora\bin\Debug\MEFConsoleCalculadora.exe
+C:\git\ExtensionApp\MEFConsoleCalculadora\MEFConsoleCalculadora\bin\Debug\MEFConsoleCalculadora.pdb
+C:\git\ExtensionApp\MEFConsoleCalculadora\MEFConsoleCalculadora\obj\Debug\MEFConsoleCalculadora.csprojResolveAssemblyReference.cache
