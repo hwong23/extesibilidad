@@ -5,6 +5,7 @@ using System.Text;
 using System.Configuration;
 using System.Threading;
 using System.Security.Principal;
+using System.Diagnostics;
 
 namespace Ploeh.Samples.HelloDI.CommandLine
 {
@@ -30,6 +31,8 @@ namespace Ploeh.Samples.HelloDI.CommandLine
             IMessageWriter writer = new ConsoleMessageWriter();
             var salutation = new Salutation(writer);
             salutation.Exclaim();
+
+            Debug.WriteLine("Porgram salida: message\n");
         }
     }
 }

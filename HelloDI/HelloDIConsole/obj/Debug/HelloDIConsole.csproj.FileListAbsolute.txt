@@ -1,0 +1,6 @@
+C:\git\extesibilidad\HelloDI\HelloDIConsole\bin\Debug\HelloDI.exe.config
+C:\git\extesibilidad\HelloDI\HelloDIConsole\bin\Debug\HelloDI.exe
+C:\git\extesibilidad\HelloDI\HelloDIConsole\bin\Debug\HelloDI.pdb
+C:\git\extesibilidad\HelloDI\HelloDIConsole\obj\Debug\HelloDIConsole.csprojResolveAssemblyReference.cache
+C:\git\extesibilidad\HelloDI\HelloDIConsole\obj\Debug\HelloDI.exe
+C:\git\extesibilidad\HelloDI\HelloDIConsole\obj\Debug\HelloDI.pdb
