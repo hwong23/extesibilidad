@@ -1,0 +1,7 @@
+C:\git\extesibilidad\Inyeccion101\inyeccion102\inyeccion102\bin\Debug\inyeccion102.exe.config
+C:\git\extesibilidad\Inyeccion101\inyeccion102\bin\Debug\inyeccion102.exe.config
+C:\git\extesibilidad\Inyeccion101\inyeccion102\obj\Debug\inyeccion102.csprojResolveAssemblyReference.cache
+C:\git\extesibilidad\Inyeccion101\inyeccion102\bin\Debug\inyeccion102.exe
+C:\git\extesibilidad\Inyeccion101\inyeccion102\bin\Debug\inyeccion102.pdb
+C:\git\extesibilidad\Inyeccion101\inyeccion102\obj\Debug\inyeccion102.exe
+C:\git\extesibilidad\Inyeccion101\inyeccion102\obj\Debug\inyeccion102.pdb
